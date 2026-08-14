@@ -1,6 +1,6 @@
 # Hi, I'm unwinned.👋
 
-Self-employed developer who builds web apps, Telegram bots, and automation. Tech lead & frontend dev at **Nightloom Development**.
+Self-employed developer who builds web apps, Telegram bots, and automation. Team lead & frontend dev at **Nightloom Development**.
 
 - 💬 I know JavaScript/TypeScript, PostgreSQL, Express.js, Vite and others.
 - 🌱 I know English, Russian, and actively learning Czech.
