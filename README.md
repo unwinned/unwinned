@@ -2,8 +2,8 @@
 
 Self-employed developer who builds web apps, Telegram bots, and automation. Tech lead & frontend dev at **Nightloom Development**.
 
-- 🌱 I know English, and actively learning Czech.
 - 💬 I know JavaScript/TypeScript, PostgreSQL, Express.js, Vite and others.
+- 🌱 I know English, Russian, and actively learning Czech.
 
 ## 🛠️ Tech Stack
 
